@@ -1,0 +1,13 @@
+2025-10-29 02:13:04,477 - INFO - Bot initialized with output language: en
+2025-10-29 02:13:04,477 - INFO - Starting document processing: your_document.pdf
+2025-10-29 02:13:04,477 - INFO - Document type: book
+2025-10-29 02:13:04,477 - INFO - Step 1: Reading document
+2025-10-29 02:13:04,477 - ERROR - Processing failed: File not found: your_document.pdf
+Traceback (most recent call last):
+  File "c:\Users\sakib\SRN\PersonalProjects\PDF Summarizer\Main.py", line 620, in main
+    results = bot.process_document(file_path, doc_type=doc_type)
+  File "c:\Users\sakib\SRN\PersonalProjects\PDF Summarizer\Main.py", line 467, in process_document
+    text = self.read_document(file_path)
+  File "c:\Users\sakib\SRN\PersonalProjects\PDF Summarizer\Main.py", line 134, in read_document
+    raise FileNotFoundError(f"File not found: {file_path}")
+FileNotFoundError: File not found: your_document.pdf
