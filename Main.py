@@ -231,24 +231,7 @@ SUGGESTIONS:"""
                 result["research_sections"][name] = summ
                 time.sleep(0.8)
 
-        # ---- Full summary + suggestions ------------------------------------
-        if cancel_event and cancel_event.is_set():
-            result["status"] = "cancelled"
-            return result
-
-        full = self.translate(
-            self.full_summary(text, cancel_event=cancel_event),
-            self.output_lang
-        )
-        result["full_summary"] = full
-
-        if cancel_event and cancel_event.is_set():
-            result["status"] = "cancelled"
-            return result
-
-        result["suggestions"] = self.translate(
-            self.suggestions(full, cancel_event=cancel_event),
-            self.output_lang
+     
         )
 
         # ---- Cost estimate --------------------------------------------------
