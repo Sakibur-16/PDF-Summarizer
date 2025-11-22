@@ -1,28 +1,39 @@
 # Document Summarizer Bot Requirements
 # =====================================
-# 
-# Installation:
-#   pip install -r requirements.txt
-#
+# Installation: pip install -r requirements.txt
 # Python Version: 3.8+
 
-ttkbootstrap
+# Core Dependencies
+openai
+requests
+python-dotenv
+tiktoken
+
+# Document Processing
 PyPDF2
 python-docx
-requests
+pdf2image
+
+# OCR and Image Processing
+pytesseract
+Pillow
+
+# Language Detection and Translation
 langdetect
 deep-translator
-python-dotenv
 
-# PDF Processing
-PyPDF2
+# NLP and Text Processing
+nltk
+scikit-learn
 
-# Word Document Processing
-python-docx
+# Progress & UI
+tqdm
+ttkbootstrap
 
-# Claude AI API
+# Optional APIs
 anthropic
 
+<<<<<<< HEAD
 # Language Detection
 langdetect
 
@@ -59,3 +70,9 @@ python-dotenv
 pytesseract
 pdf2image
 Pillow
+=======
+# Optional / Advanced
+# pdfplumber>=0.10.0  # Alternative PDF Processing if PyPDF2 fails
+# spacy>=3.7.0        # Advanced text processing
+# tkinter              # GUI support (usually pre-installed with Python)
+>>>>>>> cbc12445e53e80bc34583bc73c77bd79edd438e4
