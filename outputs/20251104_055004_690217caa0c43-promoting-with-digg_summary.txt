@@ -1,0 +1,95 @@
+FULL SUMMARY
+==================================================
+
+[Full summary failed: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+
+CHAPTER SUMMARIES
+--------------------------------------------------
+
+Chapter 3: They get to know you. You do not have to be overly personal, just
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 4: When you find someone that appears to be interesting, you can visit
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 6: You are finding like -minded individuals who are most likely interested
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 2: Look through your new friend's contacts to find people that have
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 3: Add friends! You need to build an audience on Digg if you wish for your
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 4: Visit your friend's articles and leave comments. Give them a "Digg"
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 5: Submit your articles (articles you write anywhere that have a link to
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 6: Digg other people's work!
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 2: You submit your content to Digg by simply clicking on the link on your
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 3: Your natural website visitors, those who are already making it there,
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 4: You then head over to Digg.com. There, you send a shout out to all of
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 5: Be careful! Not only can work be Dugg, but it can be buried too.
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 1: Use search engine optimization (SEO) in yo ur articles. Do not overdo it
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 2: Have others promote your articles. This will help to increase your
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 3: The links coming to your website are great! Digg.com will place a link
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 4: Use other marketing tools in conjunction with D igg.com. For example,
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 5: Become the expert on Digg and online in general on your topic. That
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 1: Digg.com is the most popular of all the social mark eting websites.
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 2: Social marketing is effective at increasing sales and sign -ups. People
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 3: Getting on the main page of Digg.com is your goal. It takes a lot of
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 4: Digg.com is also a great place to find good news and interesting
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
+
+Chapter 5: Finally, the largest advantage of Digg is that you’re marketing within
+[Error: API Error: 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions]
+----------------------------------------
