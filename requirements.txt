@@ -48,3 +48,14 @@ nltk
 
 # GUI Support (included with Python)
 # tkinter (usually pre-installed with Python)
+
+ttkbootstrap
+PyPDF2
+python-docx
+requests
+langdetect
+deep-translator
+python-dotenv
+pytesseract
+pdf2image
+Pillow
